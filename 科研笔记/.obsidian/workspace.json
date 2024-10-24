@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53194682c2876d8f",
+            "id": "eb6bb5b6b7d282b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创建链接.md",
+                "file": "记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创建链接"
+              "title": "记录"
             }
           },
           {
-            "id": "de72e7b45434ad0d",
+            "id": "f6f90f53a1d2f955",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5095977783203
   },
   "right": {
     "id": "653551760f439916",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创建链接.md",
+                "file": "记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "创建链接 的反向链接列表"
+              "title": "记录 的反向链接列表"
             }
           },
           {
@@ -176,20 +176,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53194682c2876d8f",
+  "active": "eb6bb5b6b7d282b4",
   "lastOpenFiles": [
     "10.18组会.md",
+    "记录.md",
+    "Pasted image 20241024023333.png",
+    "Pasted image 20241024022917.png",
+    "Pasted image 20241024022744.png",
+    "Pasted image 20241024022437.png",
+    "Pasted image 20241024021440.png",
+    "欢迎.md",
+    "创建链接.md",
     "Pasted image 20241017210443.png",
     "Pasted image 20241018102719.png",
     "Pasted image 20241017225033.png",
     "Pasted image 20241017224151.png",
-    "Pasted image 20241017221651.png",
-    "Pasted image 20241017213647.png",
-    "Pasted image 20241017213454.png",
-    "Pasted image 20241017212829.png",
-    "Pasted image 20241017211308.png",
-    "Pasted image 20241017211146.png",
-    "创建链接.md",
-    "欢迎.md"
+    "Pasted image 20241017221651.png"
   ]
 }

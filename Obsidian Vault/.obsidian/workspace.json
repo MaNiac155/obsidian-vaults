@@ -11,10 +11,14 @@
             "id": "f31d725e37f1c80c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS240.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "CS240"
             }
           }
         ]
@@ -154,8 +158,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3fb1211da2872eb5",
+  "active": "f31d725e37f1c80c",
   "lastOpenFiles": [
+    "CS240.md",
     "我的仓库/Pasted image 20241017210443.png",
     "我的仓库/10.18组会.md",
     "Golang.md",
